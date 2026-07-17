@@ -1,6 +1,6 @@
 # SmartLearn AI
 
-An AI-powered Learning Management System built using Django.
+An AI-powered Learning Management System built using Django sotware visual studio
 
 ## Features
 
